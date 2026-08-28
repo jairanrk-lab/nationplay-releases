@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
-  "apkUrl": "https://github.com/jairanrk-lab/nationplay-releases/releases/download/v1.0.7/NationPlay-v1.0.7.apk",
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "apkUrl": "https://github.com/jairanrk-lab/nationplay-releases/releases/download/v1.0.8/NationPlay-v1.0.8.apk",
   "changelog": "Logos dos canais com nova tentativa automática em falhas do CDN, correção de botões inacessíveis nas Configurações, player atualizado e telemetria interna de estabilidade.",
   "activeDns": "http://cl-mia-rxa00.com:80",
   "fallbackDns": "http://cl-mia-rxa00.com:80",
