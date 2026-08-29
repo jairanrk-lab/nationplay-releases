@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "1.0.17",
-  "apkUrl": "https://github.com/jairanrk-lab/nationplay-releases/releases/download/v1.0.17/NationPlay-v1.0.17.apk",
-  "changelog": "Ícone correto, EPG pelo OK, canal live não fecha mais sozinho, ID do app corrigido.",
+  "versionCode": 18,
+  "versionName": "1.0.18",
+  "apkUrl": "https://github.com/jairanrk-lab/nationplay-releases/releases/download/v1.0.18/NationPlay-v1.0.18.apk",
+  "changelog": "Hardening Final: Novo Loading Animado (buffer/reconexão), Zapping por Canal, EPG no OK.",
   "activeDns": "http://cl-mia-rxa00.com:80",
   "fallbackDns": "http://cl-mia-rxa00.com:80",
   "masterAccessKeyHash": "862c605c3e625ff4c23a9632b34e4d22ded112c30639d87745a6522f36198c66",
