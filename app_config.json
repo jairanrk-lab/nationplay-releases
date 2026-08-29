@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "1.0.16",
-  "apkUrl": "https://github.com/jairanrk-lab/nationplay-releases/releases/download/v1.0.16/app-release.apk",
-  "changelog": "- Corrige necessidade de apertar OK duas vezes no EPG, na Busca e na seleção de temporada de Séries\n- Corrige ícones de placeholder na Busca\n- Ajustes de consistência visual nos cards",
+  "versionCode": 17,
+  "versionName": "1.0.17",
+  "apkUrl": "https://github.com/jairanrk-lab/nationplay-releases/releases/download/v1.0.17/NationPlay-v1.0.17.apk",
+  "changelog": "Ícone correto, EPG pelo OK, canal live não fecha mais sozinho, ID do app corrigido.",
   "activeDns": "http://cl-mia-rxa00.com:80",
   "fallbackDns": "http://cl-mia-rxa00.com:80",
   "masterAccessKeyHash": "862c605c3e625ff4c23a9632b34e4d22ded112c30639d87745a6522f36198c66",
