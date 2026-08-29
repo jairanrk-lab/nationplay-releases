@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.15",
-  "apkUrl": "https://github.com/jairanrk-lab/nationplay-releases/releases/download/v1.0.15/app-release.apk",
-  "changelog": "- Cards de conteúdo com visual mais consistente (raio, foco, sombra)\n- Correções de foco e toque único da versão anterior mantidas",
+  "versionCode": 16,
+  "versionName": "1.0.16",
+  "apkUrl": "https://github.com/jairanrk-lab/nationplay-releases/releases/download/v1.0.16/app-release.apk",
+  "changelog": "- Corrige necessidade de apertar OK duas vezes no EPG, na Busca e na seleção de temporada de Séries\n- Corrige ícones de placeholder na Busca\n- Ajustes de consistência visual nos cards",
   "activeDns": "http://cl-mia-rxa00.com:80",
   "fallbackDns": "http://cl-mia-rxa00.com:80",
   "masterAccessKeyHash": "862c605c3e625ff4c23a9632b34e4d22ded112c30639d87745a6522f36198c66",
