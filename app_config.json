@@ -1,7 +1,7 @@
 {
   "versionCode": 21,
   "versionName": "1.0.21",
-  "apkUrl": "https://github.com/jairanrk-lab/nationplay-releases/releases/latest/download/NationPlay.apk",
+  "apkUrl": "https://github.com/jairanrk-lab/nationplay-releases/releases/latest/download/app-release.apk",
   "changelog": "1.0.21: Adicionado indicador de carregamento visual ao verificar atualizações e otimizações no instalador.",
   "activeDns": "http://cl-mia-rxa00.com:80",
   "fallbackDns": "http://cl-mia-rxa00.com:80",
