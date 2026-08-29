@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "1.0.11",
-  "apkUrl": "https://github.com/jairanrk-lab/nationplay-releases/releases/download/v1.0.11/NationPlay-v1.0.11.apk",
-  "changelog": "- Nova tela Home unificada\n- Novo Guia de TV (EPG)\n- Novo ícone adaptativo\n- Contraste melhorado para TVs\n- Refatoração do sistema de abas e player",
+  "versionCode": 12,
+  "versionName": "1.0.12",
+  "apkUrl": "https://github.com/jairanrk-lab/nationplay-releases/releases/download/v1.0.12/app-release.apk",
+  "changelog": "- Corrige troca rápida de canais (zapping) sobrepor reconexão de canal antigo\n- Mensagens de erro diferenciam rede, servidor, autenticação e conteúdo\n- Corrige atualização duplicada do catálogo\n- Corrige vazamento de conexão no registro de dispositivo\n- Melhorias de estabilidade interna",
   "activeDns": "http://cl-mia-rxa00.com:80",
   "fallbackDns": "http://cl-mia-rxa00.com:80",
   "masterAccessKeyHash": "862c605c3e625ff4c23a9632b34e4d22ded112c30639d87745a6522f36198c66",
