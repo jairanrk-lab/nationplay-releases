@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "1.0.24",
+  "versionCode": 25,
+  "versionName": "1.0.25",
   "apkUrl": "https://github.com/jairanrk-lab/nationplay-releases/releases/latest/download/app-release.apk",
-  "changelog": "1.0.24: Renderização instantânea (0ms) de 970+ logos locais embutidos no APK, badges visuais por emissora, eliminação de spinners e otimização total de performance.",
+  "changelog": "1.0.25: Sistema definitivo de logos offline V2 com 100% de cobertura (1.754 canais mapeados para 486 identidades visuais otimizadas), zero dependência de rede, inicialização instantânea e proteção R8.",
   "activeDns": "http://cl-mia-rxa00.com:80",
   "fallbackDns": "http://cl-mia-rxa00.com:80",
   "masterAccessKeyHash": "862c605c3e625ff4c23a9632b34e4d22ded112c30639d87745a6522f36198c66",
