@@ -1,10 +1,10 @@
 {
-  "versionCode": 37,
-  "versionName": "1.0.37",
-  "apkUrl": "https://github.com/jairanrk-lab/nationplay-releases/releases/download/v1.0.37/app-release.apk",
-  "changelog": "1.0.37: Hero Carousel panorâmico em cascata com interpolação de profundidade ótica (Apple TV / tvOS), suporte a backdrops widescreen 16:9 em alta resolução, avatar de perfil com silhueta estilizada e gradiente grafite, e expurgo completo de acentos ciano/neon.",
-  "activeDns": "http://takegot.net",
-  "fallbackDns": "http://195.35.113.59",
-  "masterAccessKeyHash": "862c605c3e625ff4c23a9632b34e4d22ded112c30639d87745a6522f36198c66",
-  "isAppActive": true
+    "versionCode": 37,
+    "versionName": "1.0.37",
+    "apkUrl": "https://github.com/jairanrk-lab/nationplay-releases/releases/download/v1.0.37/app-release.apk",
+    "changelog": "1.0.37: Hero Carousel panorâmico em cascata com interpolação de profundidade ótica (Apple TV / tvOS), suporte a backdrops widescreen 16:9 em alta resolução, avatar de perfil com silhueta estilizada e gradiente grafite, e expurgo completo de acentos ciano/neon.",
+    "activeDns": "http://takegot.net",
+    "fallbackDns": "http://195.35.113.59",
+    "masterAccessKeyHash": "862c605c3e625ff4c23a9632b34e4d22ded112c30639d87745a6522f36198c66",
+    "isAppActive": true
 }
