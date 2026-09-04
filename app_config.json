@@ -1,8 +1,8 @@
 {
-    "versionCode": 37,
-    "versionName": "1.0.37",
-    "apkUrl": "https://github.com/jairanrk-lab/nationplay-releases/releases/download/v1.0.37/app-release.apk",
-    "changelog": "1.0.37: Hero Carousel panorâmico em cascata com interpolação de profundidade ótica (Apple TV / tvOS), suporte a backdrops widescreen 16:9 em alta resolução, avatar de perfil com silhueta estilizada e gradiente grafite, e expurgo completo de acentos ciano/neon.",
+    "versionCode": 38,
+    "versionName": "1.0.38",
+    "apkUrl": "https://github.com/jairanrk-lab/nationplay-releases/releases/download/v1.0.38/app-release.apk",
+    "changelog": "1.0.38: Fundação da NationPlay Graphics Engine — motor de vidro (Dual Kawase Blur real via OpenGL ES 3.0) refatorado como módulo compartilhado, com contexto GL único de processo, detecção automática de suporte a GLES3 (fallback pra fundo sólido em GPUs fracas) e captura de tela mais leve. Sidebar (menu lateral): opacidade do tint reduzida de 87% pra 67% pra deixar a cor do conteúdo de fundo aparecer mais através do vidro, borda especular mais discreta, e efeito de foco (\"pop\") do item selecionado agora animado suavemente.",
     "activeDns": "http://takegot.net",
     "fallbackDns": "http://195.35.113.59",
     "masterAccessKeyHash": "862c605c3e625ff4c23a9632b34e4d22ded112c30639d87745a6522f36198c66",
