@@ -1,10 +1,10 @@
 {
-    "versionCode": 38,
-    "versionName": "1.0.38",
-    "apkUrl": "https://github.com/jairanrk-lab/nationplay-releases/releases/download/v1.0.38/app-release.apk",
-    "changelog": "1.0.38: Fundação da NationPlay Graphics Engine — motor de vidro (Dual Kawase Blur real via OpenGL ES 3.0) refatorado como módulo compartilhado, com contexto GL único de processo, detecção automática de suporte a GLES3 (fallback pra fundo sólido em GPUs fracas) e captura de tela mais leve. Sidebar (menu lateral): opacidade do tint reduzida de 87% pra 67% pra deixar a cor do conteúdo de fundo aparecer mais através do vidro, borda especular mais discreta, e efeito de foco (\"pop\") do item selecionado agora animado suavemente.",
+    "versionCode": 39,
+    "versionName": "1.0.39",
+    "apkUrl": "https://github.com/jairanrk-lab/nationplay-releases/releases/latest/download/app-release.apk",
+    "changelog": "1.0.39: Menu lateral redesenhado no padrão Apple TV (seleção em vidro translúcido e ícones sólidos). Banner da Home mais nítido e o destaque de Filmes/Séries mais claro. Abertura única e minimalista. Player: controles voltam a ser alcançáveis pelo controle e fim do título de episódio duplicado. Bloqueio de dispositivo mais robusto. Correções de estabilidade no carregamento do catálogo.",
     "activeDns": "http://takegot.net",
     "fallbackDns": "http://195.35.113.59",
-    "masterAccessKeyHash": "862c605c3e625ff4c23a9632b34e4d22ded112c30639d87745a6522f36198c66",
+    "masterAccessKeyHash": "ea92419fd469d013890f70491f8ff536d1ef0d8f72db6c37a5aba3780ce5bc0d",
     "isAppActive": true
 }
