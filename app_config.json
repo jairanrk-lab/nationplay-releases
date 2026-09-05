@@ -1,8 +1,8 @@
 {
-    "versionCode": 39,
-    "versionName": "1.0.39",
+    "versionCode": 40,
+    "versionName": "1.0.40",
     "apkUrl": "https://github.com/jairanrk-lab/nationplay-releases/releases/latest/download/app-release.apk",
-    "changelog": "1.0.39: Menu lateral redesenhado no padrão Apple TV (seleção em vidro translúcido e ícones sólidos). Banner da Home mais nítido e o destaque de Filmes/Séries mais claro. Abertura única e minimalista. Player: controles voltam a ser alcançáveis pelo controle e fim do título de episódio duplicado. Bloqueio de dispositivo mais robusto. Correções de estabilidade no carregamento do catálogo.",
+    "changelog": "1.0.40: Canais mais claros — sem badge duplicado, logo uniforme e selo de qualidade (SD/HD/FHD/4K) colorido. 'Agora na TV' passa a aparecer em toda a fileira, não só no canal focado. Filmes já assistidos ganham selo e 'Assistir Novamente' em vez de sumir do histórico. Robustez de EPG com provedores que restringem o guia. Correções internas de estabilidade no player.",
     "activeDns": "http://takegot.net",
     "fallbackDns": "http://195.35.113.59",
     "masterAccessKeyHash": "ea92419fd469d013890f70491f8ff536d1ef0d8f72db6c37a5aba3780ce5bc0d",
