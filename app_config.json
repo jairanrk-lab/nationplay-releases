@@ -1,10 +1,10 @@
 {
-    "versionCode": 40,
-    "versionName": "1.0.40",
+    "versionCode": 42,
+    "versionName": "1.0.42",
     "apkUrl": "https://github.com/jairanrk-lab/nationplay-releases/releases/latest/download/app-release.apk",
-    "changelog": "1.0.40: Canais mais claros — sem badge duplicado, logo uniforme e selo de qualidade (SD/HD/FHD/4K) colorido. 'Agora na TV' passa a aparecer em toda a fileira, não só no canal focado. Filmes já assistidos ganham selo e 'Assistir Novamente' em vez de sumir do histórico. Robustez de EPG com provedores que restringem o guia. Correções internas de estabilidade no player.",
+    "changelog": "1.0.42: corrige o PIN de acesso (volta a 4 dígitos: 8844) e protege contra tentativas repetidas. Traz também novos ícones, ajustes no menu lateral e nos textos de atualização.",
     "activeDns": "http://takegot.net",
     "fallbackDns": "http://195.35.113.59",
-    "masterAccessKeyHash": "ea92419fd469d013890f70491f8ff536d1ef0d8f72db6c37a5aba3780ce5bc0d",
+    "masterAccessKeyHash": "862c605c3e625ff4c23a9632b34e4d22ded112c30639d87745a6522f36198c66",
     "isAppActive": true
 }
