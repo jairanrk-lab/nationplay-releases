@@ -1,8 +1,8 @@
 {
-  "versionCode": 43,
-  "versionName": "1.0.43",
+  "versionCode": 44,
+  "versionName": "1.0.44",
   "apkUrl": "https://github.com/jairanrk-lab/nationplay-releases/releases/latest/download/app-release.apk",
-  "changelog": "1.0.43: canais ao vivo mais estáveis. Se um canal não abrir, o app tenta de novo sozinho, troca para outra versão do canal e usa o servidor reserva do provedor.",
+  "changelog": "1.0.44: telas de Login e PIN com o novo logo, Home reorganizada com canais em destaque, selo do player não é mais cortado e mensagens de erro de reprodução mais claras.",
   "activeDns": "http://takegot.net",
   "fallbackDns": "http://195.35.113.59",
   "masterAccessKeyHash": "862c605c3e625ff4c23a9632b34e4d22ded112c30639d87745a6522f36198c66",
